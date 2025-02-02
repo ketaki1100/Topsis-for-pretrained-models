@@ -29,6 +29,6 @@ The following bar chart visualizes the ranking of models based on their closenes
 ![Model Ranking Plot](ranking_plot.png)
 
 ## Files:
-- **topsis_model_selection.py**: Python script to perform the analysis.
+- **code.py**: Python script to perform the analysis.
 - **model_ranking_results.csv**: CSV file containing the ranking results.
 - **ranking_plot.png**: Bar chart visualizing the ranking of models.
